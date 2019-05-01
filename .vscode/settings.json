@@ -35,5 +35,8 @@
     "vector": "cpp",
     "stack": "cpp",
     "unordered_map": "cpp"
-  }
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false
 }
